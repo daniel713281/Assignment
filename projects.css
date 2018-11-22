@@ -3,7 +3,9 @@
 #headnav {
   font-family:"roboto", serif;
   background-color: lightgrey;
+#mainimage {
 
+     max-width: 80vmin
 }
 ul {
     list-style-type: none;
