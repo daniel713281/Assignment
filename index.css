@@ -24,11 +24,11 @@ li a {
     }
 #skills, #aboutme, #blurb {
     width: 100%;
-    height: 30px
+    height: 30px;
     }
 
 th {
-    background-color:#ddd
+    background-color:#ddd;
     } 
 tr {
     color:#0c1e93;
@@ -56,7 +56,7 @@ h2{
 }
 p3{
     color: #332;
-      background-color:#FBFAF9
+      background-color:#FBFAF9;
       width"20px;"
 }
 #footernav{
