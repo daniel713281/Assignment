@@ -3,10 +3,9 @@
 #headnav {
   font-family:"roboto", serif;
   background-color: lightgrey;
-#mainimage {
-
-     max-width: 80vmin
-}
+body {
+   background-image: url("paper.gif");
+} 
 ul {
     list-style-type: none;
     margin: 0;
